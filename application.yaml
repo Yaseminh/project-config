@@ -1,4 +1,4 @@
-MQTT:
+mqtt:
   test:
      domain: "smarttest"
      userName: "smartest/exampledevice"
