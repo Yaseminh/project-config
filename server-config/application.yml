@@ -9,4 +9,3 @@ mqtt:
     userName: "greenhouse/testDevice"
     password: "11111111"
     topic: "/v1/greenhouse/device/testDevice"
-   health5g:
