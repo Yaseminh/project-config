@@ -1,6 +1,0 @@
-MQTT:
-  test:
-     domain: "smarttest"
-     userName: "smartest/exampledevice"
-     password: "00000000"
-     topic: "/v1/smarttest/device/exampledevice"
