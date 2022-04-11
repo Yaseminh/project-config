@@ -1,10 +1,10 @@
 mqtt:
-  Smartwind:
+  smartwind:
     domain: "smartwind"
     userName: "smartwind/exampledevice"
     password: "12345678"
     topic: "/v1/smartwind/device/exampledevice"
-  Greenhouse:
+  sreenhouse:
     domain: "greenhouse"
     userName: "greenhouse/testDevice"
     password: "11111111"
