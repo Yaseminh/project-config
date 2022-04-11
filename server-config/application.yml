@@ -1,4 +1,4 @@
-MQTT:
+mqtt:
   Smartwind:
     domain: "smartwind"
     userName: "smartwind/exampledevice"
