@@ -1,6 +1,6 @@
 mqtt:
   smartwind:
-    domain: "smartwind1"
+    domain: "smartwind"
     userName: "smartwind/exampledevice"
     password: "12345678"
     topic: "/v1/smartwind/device/exampledevice"
